@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis-Project-2
 
-%Pip install Ryu
+```Python
+Pip install Ryu
 
-%Cd ryu; Python ./sepup.py install
+Cd ryu; Python ./sepup.py install
+```
